@@ -14,6 +14,4 @@
 
 # ENTER DESCRIPTION OF TASK PERFORMED NOT LESS THAN 500 WORDS
 
-#Output of Task 3 :
-
-       https://github.com/AshwiniKauthale/-MULTITHREADED-CHAT-APPLICATION/issues/1#issue-2825160832         
+#Output of Task 3 :      
